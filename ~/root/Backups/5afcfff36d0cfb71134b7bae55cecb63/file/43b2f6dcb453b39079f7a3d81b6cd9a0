@@ -1,0 +1,11 @@
+file:///root/client/Dockerfile.dev {"mtime":1571436627233,"size":109,"etag":"342omglsh3g","orphaned":false}
+FROM node:alpine
+
+WORKDIR '/app/'
+
+COPY package.json .
+RUN npm install
+
+COPY . .
+
+CMD ["npm", "run", "start"] 
