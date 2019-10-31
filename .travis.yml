@@ -2,8 +2,8 @@ sudo: required
 services: 
   - docker 
 
-  before_install:
-    - docker build -t kisstapractice/docker-react -f Dockerfile.dev .
+before_install:
+  - docker build -t kisstapractice/docker-react -f Dockerfile.dev .
 
 script:
   - docker run kisstapractice/docker-react npm run test -- --coverage
