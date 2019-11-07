@@ -1,2 +1,8 @@
 [2019-10-19 00:04:02.508] [sharedprocess] [info] main {"machineId":"e0bc110b4b23f2161dddcdf1c9b402205e045c5a42c5245ea6cc398df925de2e"}
 [2019-10-19 00:04:42.466] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-01 23:05:08.813] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-11-01 23:05:09.428] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/e64fef11-1ba8-4f53-a0ec-592ec2dd43ac
+[2019-11-01 23:05:10.223] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-azuretools.vscode-docker-0.8.2: ms-azuretools.vscode-docker
+[2019-11-01 23:05:10.224] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-0.8.2
+[2019-11-01 23:05:10.226] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-11-01 23:05:10.285] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
